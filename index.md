@@ -1,4 +1,4 @@
-# Andres Riera Ortiz Parraga
+**Andres Riera Ortiz Parraga**
 **UCSD Email:** arieraortizparraga@ucsd.edu  
 **Section:** B10  
 **Mentor:** Rajesh Gupta 
